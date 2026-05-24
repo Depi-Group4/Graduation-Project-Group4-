@@ -1,0 +1,193 @@
+﻿Account_ID,Account,Month_Text,Expense_Amount,Month,Year,Month_Number,Month_Name,Month_Year
+2.03,Labor Expenses,Jan/19,54850,2019-01-01,2019,1,January,Jan 2019
+2.03.01,Pro labore,Jan/19,7500,2019-01-01,2019,1,January,Jan 2019
+2.03.02,Salary,Jan/19,40000,2019-01-01,2019,1,January,Jan 2019
+2.03.03,Financial Charges,Jan/19,5000,2019-01-01,2019,1,January,Jan 2019
+2.03.04,Trainings,Jan/19,2000,2019-01-01,2019,1,January,Jan 2019
+2.03.05,Other Labor Expenses,Jan/19,350,2019-01-01,2019,1,January,Jan 2019
+2.04,Administrative Expenses,Jan/19,8884,2019-01-01,2019,1,January,Jan 2019
+2.04.01,Rent and Levies,Jan/19,3500,2019-01-01,2019,1,January,Jan 2019
+2.04.02,Accounting,Jan/19,500,2019-01-01,2019,1,January,Jan 2019
+2.04.03,Water and Electricity,Jan/19,800,2019-01-01,2019,1,January,Jan 2019
+2.04.04,Internet and Phone,Jan/19,250,2019-01-01,2019,1,January,Jan 2019
+2.04.05,Marketing,Jan/19,2500,2019-01-01,2019,1,January,Jan 2019
+2.04.06,Cleaning and Maintenance,Jan/19,350,2019-01-01,2019,1,January,Jan 2019
+2.04.07,Other Administrative Expenses,Jan/19,984,2019-01-01,2019,1,January,Jan 2019
+2.05,Other Expenses,Jan/19,6654,2019-01-01,2019,1,January,Jan 2019
+2.05.01,Overhead,Jan/19,6654,2019-01-01,2019,1,January,Jan 2019
+2.03,Labor Expenses,Feb/19,97480,2019-02-01,2019,2,February,Feb 2019
+2.03.01,Pro labore,Feb/19,15000,2019-02-01,2019,2,February,Feb 2019
+2.03.02,Salary,Feb/19,65000,2019-02-01,2019,2,February,Feb 2019
+2.03.03,Financial Charges,Feb/19,12000,2019-02-01,2019,2,February,Feb 2019
+2.03.04,Trainings,Feb/19,5000,2019-02-01,2019,2,February,Feb 2019
+2.03.05,Other Labor Expenses,Feb/19,480,2019-02-01,2019,2,February,Feb 2019
+2.04,Administrative Expenses,Feb/19,8623,2019-02-01,2019,2,February,Feb 2019
+2.04.01,Rent and Levies,Feb/19,3500,2019-02-01,2019,2,February,Feb 2019
+2.04.02,Accounting,Feb/19,500,2019-02-01,2019,2,February,Feb 2019
+2.04.03,Water and Electricity,Feb/19,800,2019-02-01,2019,2,February,Feb 2019
+2.04.04,Internet and Phone,Feb/19,250,2019-02-01,2019,2,February,Feb 2019
+2.04.05,Marketing,Feb/19,2500,2019-02-01,2019,2,February,Feb 2019
+2.04.06,Cleaning and Maintenance,Feb/19,350,2019-02-01,2019,2,February,Feb 2019
+2.04.07,Other Administrative Expenses,Feb/19,723,2019-02-01,2019,2,February,Feb 2019
+2.05,Other Expenses,Feb/19,5184,2019-02-01,2019,2,February,Feb 2019
+2.05.01,Overhead,Feb/19,5184,2019-02-01,2019,2,February,Feb 2019
+2.03,Labor Expenses,Mar/19,96036,2019-03-01,2019,3,March,Mar 2019
+2.03.01,Pro labore,Mar/19,15000,2019-03-01,2019,3,March,Mar 2019
+2.03.02,Salary,Mar/19,65000,2019-03-01,2019,3,March,Mar 2019
+2.03.03,Financial Charges,Mar/19,12000,2019-03-01,2019,3,March,Mar 2019
+2.03.04,Trainings,Mar/19,3500,2019-03-01,2019,3,March,Mar 2019
+2.03.05,Other Labor Expenses,Mar/19,536,2019-03-01,2019,3,March,Mar 2019
+2.04,Administrative Expenses,Mar/19,8916,2019-03-01,2019,3,March,Mar 2019
+2.04.01,Rent and Levies,Mar/19,3500,2019-03-01,2019,3,March,Mar 2019
+2.04.02,Accounting,Mar/19,500,2019-03-01,2019,3,March,Mar 2019
+2.04.03,Water and Electricity,Mar/19,800,2019-03-01,2019,3,March,Mar 2019
+2.04.04,Internet and Phone,Mar/19,250,2019-03-01,2019,3,March,Mar 2019
+2.04.05,Marketing,Mar/19,2500,2019-03-01,2019,3,March,Mar 2019
+2.04.06,Cleaning and Maintenance,Mar/19,350,2019-03-01,2019,3,March,Mar 2019
+2.04.07,Other Administrative Expenses,Mar/19,1016,2019-03-01,2019,3,March,Mar 2019
+2.05,Other Expenses,Mar/19,7826,2019-03-01,2019,3,March,Mar 2019
+2.05.01,Overhead,Mar/19,7826,2019-03-01,2019,3,March,Mar 2019
+2.03,Labor Expenses,Apr/19,94575,2019-04-01,2019,4,April,Apr 2019
+2.03.01,Pro labore,Apr/19,15000,2019-04-01,2019,4,April,Apr 2019
+2.03.02,Salary,Apr/19,65000,2019-04-01,2019,4,April,Apr 2019
+2.03.03,Financial Charges,Apr/19,12000,2019-04-01,2019,4,April,Apr 2019
+2.03.04,Trainings,Apr/19,2000,2019-04-01,2019,4,April,Apr 2019
+2.03.05,Other Labor Expenses,Apr/19,575,2019-04-01,2019,4,April,Apr 2019
+2.04,Administrative Expenses,Apr/19,8858,2019-04-01,2019,4,April,Apr 2019
+2.04.01,Rent and Levies,Apr/19,3500,2019-04-01,2019,4,April,Apr 2019
+2.04.02,Accounting,Apr/19,500,2019-04-01,2019,4,April,Apr 2019
+2.04.03,Water and Electricity,Apr/19,800,2019-04-01,2019,4,April,Apr 2019
+2.04.04,Internet and Phone,Apr/19,250,2019-04-01,2019,4,April,Apr 2019
+2.04.05,Marketing,Apr/19,2500,2019-04-01,2019,4,April,Apr 2019
+2.04.06,Cleaning and Maintenance,Apr/19,350,2019-04-01,2019,4,April,Apr 2019
+2.04.07,Other Administrative Expenses,Apr/19,958,2019-04-01,2019,4,April,Apr 2019
+2.05,Other Expenses,Apr/19,4416,2019-04-01,2019,4,April,Apr 2019
+2.05.01,Overhead,Apr/19,4416,2019-04-01,2019,4,April,Apr 2019
+2.03,Labor Expenses,May/19,96496,2019-05-01,2019,5,May,May 2019
+2.03.01,Pro labore,May/19,15000,2019-05-01,2019,5,May,May 2019
+2.03.02,Salary,May/19,65000,2019-05-01,2019,5,May,May 2019
+2.03.03,Financial Charges,May/19,12000,2019-05-01,2019,5,May,May 2019
+2.03.04,Trainings,May/19,4000,2019-05-01,2019,5,May,May 2019
+2.03.05,Other Labor Expenses,May/19,496,2019-05-01,2019,5,May,May 2019
+2.04,Administrative Expenses,May/19,8847,2019-05-01,2019,5,May,May 2019
+2.04.01,Rent and Levies,May/19,3500,2019-05-01,2019,5,May,May 2019
+2.04.02,Accounting,May/19,500,2019-05-01,2019,5,May,May 2019
+2.04.03,Water and Electricity,May/19,800,2019-05-01,2019,5,May,May 2019
+2.04.04,Internet and Phone,May/19,250,2019-05-01,2019,5,May,May 2019
+2.04.05,Marketing,May/19,2500,2019-05-01,2019,5,May,May 2019
+2.04.06,Cleaning and Maintenance,May/19,350,2019-05-01,2019,5,May,May 2019
+2.04.07,Other Administrative Expenses,May/19,947,2019-05-01,2019,5,May,May 2019
+2.05,Other Expenses,May/19,3440,2019-05-01,2019,5,May,May 2019
+2.05.01,Overhead,May/19,3440,2019-05-01,2019,5,May,May 2019
+2.03,Labor Expenses,Jun/19,97399,2019-06-01,2019,6,June,Jun 2019
+2.03.01,Pro labore,Jun/19,15000,2019-06-01,2019,6,June,Jun 2019
+2.03.02,Salary,Jun/19,65000,2019-06-01,2019,6,June,Jun 2019
+2.03.03,Financial Charges,Jun/19,12000,2019-06-01,2019,6,June,Jun 2019
+2.03.04,Trainings,Jun/19,5000,2019-06-01,2019,6,June,Jun 2019
+2.03.05,Other Labor Expenses,Jun/19,399,2019-06-01,2019,6,June,Jun 2019
+2.04,Administrative Expenses,Jun/19,9133,2019-06-01,2019,6,June,Jun 2019
+2.04.01,Rent and Levies,Jun/19,3500,2019-06-01,2019,6,June,Jun 2019
+2.04.02,Accounting,Jun/19,500,2019-06-01,2019,6,June,Jun 2019
+2.04.03,Water and Electricity,Jun/19,800,2019-06-01,2019,6,June,Jun 2019
+2.04.04,Internet and Phone,Jun/19,250,2019-06-01,2019,6,June,Jun 2019
+2.04.05,Marketing,Jun/19,2500,2019-06-01,2019,6,June,Jun 2019
+2.04.06,Cleaning and Maintenance,Jun/19,350,2019-06-01,2019,6,June,Jun 2019
+2.04.07,Other Administrative Expenses,Jun/19,1233,2019-06-01,2019,6,June,Jun 2019
+2.05,Other Expenses,Jun/19,4589,2019-06-01,2019,6,June,Jun 2019
+2.05.01,Overhead,Jun/19,4589,2019-06-01,2019,6,June,Jun 2019
+2.03,Labor Expenses,Jul/19,127003,2019-07-01,2019,7,July,Jul 2019
+2.03.01,Pro labore,Jul/19,20000,2019-07-01,2019,7,July,Jul 2019
+2.03.02,Salary,Jul/19,85000,2019-07-01,2019,7,July,Jul 2019
+2.03.03,Financial Charges,Jul/19,18000,2019-07-01,2019,7,July,Jul 2019
+2.03.04,Trainings,Jul/19,3500,2019-07-01,2019,7,July,Jul 2019
+2.03.05,Other Labor Expenses,Jul/19,503,2019-07-01,2019,7,July,Jul 2019
+2.04,Administrative Expenses,Jul/19,11907,2019-07-01,2019,7,July,Jul 2019
+2.04.01,Rent and Levies,Jul/19,4500,2019-07-01,2019,7,July,Jul 2019
+2.04.02,Accounting,Jul/19,750,2019-07-01,2019,7,July,Jul 2019
+2.04.03,Water and Electricity,Jul/19,1200,2019-07-01,2019,7,July,Jul 2019
+2.04.04,Internet and Phone,Jul/19,250,2019-07-01,2019,7,July,Jul 2019
+2.04.05,Marketing,Jul/19,3500,2019-07-01,2019,7,July,Jul 2019
+2.04.06,Cleaning and Maintenance,Jul/19,500,2019-07-01,2019,7,July,Jul 2019
+2.04.07,Other Administrative Expenses,Jul/19,1207,2019-07-01,2019,7,July,Jul 2019
+2.05,Other Expenses,Jul/19,6283,2019-07-01,2019,7,July,Jul 2019
+2.05.01,Overhead,Jul/19,6283,2019-07-01,2019,7,July,Jul 2019
+2.03,Labor Expenses,Aug/19,128561,2019-08-01,2019,8,August,Aug 2019
+2.03.01,Pro labore,Aug/19,20000,2019-08-01,2019,8,August,Aug 2019
+2.03.02,Salary,Aug/19,85000,2019-08-01,2019,8,August,Aug 2019
+2.03.03,Financial Charges,Aug/19,18000,2019-08-01,2019,8,August,Aug 2019
+2.03.04,Trainings,Aug/19,5000,2019-08-01,2019,8,August,Aug 2019
+2.03.05,Other Labor Expenses,Aug/19,561,2019-08-01,2019,8,August,Aug 2019
+2.04,Administrative Expenses,Aug/19,11782,2019-08-01,2019,8,August,Aug 2019
+2.04.01,Rent and Levies,Aug/19,4500,2019-08-01,2019,8,August,Aug 2019
+2.04.02,Accounting,Aug/19,750,2019-08-01,2019,8,August,Aug 2019
+2.04.03,Water and Electricity,Aug/19,1200,2019-08-01,2019,8,August,Aug 2019
+2.04.04,Internet and Phone,Aug/19,250,2019-08-01,2019,8,August,Aug 2019
+2.04.05,Marketing,Aug/19,3500,2019-08-01,2019,8,August,Aug 2019
+2.04.06,Cleaning and Maintenance,Aug/19,500,2019-08-01,2019,8,August,Aug 2019
+2.04.07,Other Administrative Expenses,Aug/19,1082,2019-08-01,2019,8,August,Aug 2019
+2.05,Other Expenses,Aug/19,7675,2019-08-01,2019,8,August,Aug 2019
+2.05.01,Overhead,Aug/19,7675,2019-08-01,2019,8,August,Aug 2019
+2.03,Labor Expenses,Sep/19,138307,2019-09-01,2019,9,September,Sep 2019
+2.03.01,Pro labore,Sep/19,30000,2019-09-01,2019,9,September,Sep 2019
+2.03.02,Salary,Sep/19,85000,2019-09-01,2019,9,September,Sep 2019
+2.03.03,Financial Charges,Sep/19,18000,2019-09-01,2019,9,September,Sep 2019
+2.03.04,Trainings,Sep/19,5000,2019-09-01,2019,9,September,Sep 2019
+2.03.05,Other Labor Expenses,Sep/19,307,2019-09-01,2019,9,September,Sep 2019
+2.04,Administrative Expenses,Sep/19,11448,2019-09-01,2019,9,September,Sep 2019
+2.04.01,Rent and Levies,Sep/19,4500,2019-09-01,2019,9,September,Sep 2019
+2.04.02,Accounting,Sep/19,750,2019-09-01,2019,9,September,Sep 2019
+2.04.03,Water and Electricity,Sep/19,1200,2019-09-01,2019,9,September,Sep 2019
+2.04.04,Internet and Phone,Sep/19,250,2019-09-01,2019,9,September,Sep 2019
+2.04.05,Marketing,Sep/19,3500,2019-09-01,2019,9,September,Sep 2019
+2.04.06,Cleaning and Maintenance,Sep/19,500,2019-09-01,2019,9,September,Sep 2019
+2.04.07,Other Administrative Expenses,Sep/19,748,2019-09-01,2019,9,September,Sep 2019
+2.05,Other Expenses,Sep/19,4228,2019-09-01,2019,9,September,Sep 2019
+2.05.01,Overhead,Sep/19,4228,2019-09-01,2019,9,September,Sep 2019
+2.03,Labor Expenses,Oct/19,220800,2019-10-01,2019,10,October,Oct 2019
+2.03.01,Pro labore,Oct/19,35000,2019-10-01,2019,10,October,Oct 2019
+2.03.02,Salary,Oct/19,140000,2019-10-01,2019,10,October,Oct 2019
+2.03.03,Financial Charges,Oct/19,35000,2019-10-01,2019,10,October,Oct 2019
+2.03.04,Trainings,Oct/19,10000,2019-10-01,2019,10,October,Oct 2019
+2.03.05,Other Labor Expenses,Oct/19,800,2019-10-01,2019,10,October,Oct 2019
+2.04,Administrative Expenses,Oct/19,17963,2019-10-01,2019,10,October,Oct 2019
+2.04.01,Rent and Levies,Oct/19,4500,2019-10-01,2019,10,October,Oct 2019
+2.04.02,Accounting,Oct/19,750,2019-10-01,2019,10,October,Oct 2019
+2.04.03,Water and Electricity,Oct/19,1200,2019-10-01,2019,10,October,Oct 2019
+2.04.04,Internet and Phone,Oct/19,250,2019-10-01,2019,10,October,Oct 2019
+2.04.05,Marketing,Oct/19,10000,2019-10-01,2019,10,October,Oct 2019
+2.04.06,Cleaning and Maintenance,Oct/19,500,2019-10-01,2019,10,October,Oct 2019
+2.04.07,Other Administrative Expenses,Oct/19,763,2019-10-01,2019,10,October,Oct 2019
+2.05,Other Expenses,Oct/19,9500,2019-10-01,2019,10,October,Oct 2019
+2.05.01,Overhead,Oct/19,9500,2019-10-01,2019,10,October,Oct 2019
+2.03,Labor Expenses,Nov/19,237000,2019-11-01,2019,11,November,Nov 2019
+2.03.01,Pro labore,Nov/19,35000,2019-11-01,2019,11,November,Nov 2019
+2.03.02,Salary,Nov/19,150000,2019-11-01,2019,11,November,Nov 2019
+2.03.03,Financial Charges,Nov/19,35000,2019-11-01,2019,11,November,Nov 2019
+2.03.04,Trainings,Nov/19,15000,2019-11-01,2019,11,November,Nov 2019
+2.03.05,Other Labor Expenses,Nov/19,2000,2019-11-01,2019,11,November,Nov 2019
+2.04,Administrative Expenses,Nov/19,19067,2019-11-01,2019,11,November,Nov 2019
+2.04.01,Rent and Levies,Nov/19,5000,2019-11-01,2019,11,November,Nov 2019
+2.04.02,Accounting,Nov/19,750,2019-11-01,2019,11,November,Nov 2019
+2.04.03,Water and Electricity,Nov/19,1200,2019-11-01,2019,11,November,Nov 2019
+2.04.04,Internet and Phone,Nov/19,250,2019-11-01,2019,11,November,Nov 2019
+2.04.05,Marketing,Nov/19,10000,2019-11-01,2019,11,November,Nov 2019
+2.04.06,Cleaning and Maintenance,Nov/19,500,2019-11-01,2019,11,November,Nov 2019
+2.04.07,Other Administrative Expenses,Nov/19,1367,2019-11-01,2019,11,November,Nov 2019
+2.05,Other Expenses,Nov/19,9500,2019-11-01,2019,11,November,Nov 2019
+2.05.01,Overhead,Nov/19,9500,2019-11-01,2019,11,November,Nov 2019
+2.03,Labor Expenses,Dec/19,238000,2019-12-01,2019,12,December,Dec 2019
+2.03.01,Pro labore,Dec/19,35000,2019-12-01,2019,12,December,Dec 2019
+2.03.02,Salary,Dec/19,150000,2019-12-01,2019,12,December,Dec 2019
+2.03.03,Financial Charges,Dec/19,35000,2019-12-01,2019,12,December,Dec 2019
+2.03.04,Trainings,Dec/19,15000,2019-12-01,2019,12,December,Dec 2019
+2.03.05,Other Labor Expenses,Dec/19,3000,2019-12-01,2019,12,December,Dec 2019
+2.04,Administrative Expenses,Dec/19,19028,2019-12-01,2019,12,December,Dec 2019
+2.04.01,Rent and Levies,Dec/19,5000,2019-12-01,2019,12,December,Dec 2019
+2.04.02,Accounting,Dec/19,750,2019-12-01,2019,12,December,Dec 2019
+2.04.03,Water and Electricity,Dec/19,1200,2019-12-01,2019,12,December,Dec 2019
+2.04.04,Internet and Phone,Dec/19,250,2019-12-01,2019,12,December,Dec 2019
+2.04.05,Marketing,Dec/19,10000,2019-12-01,2019,12,December,Dec 2019
+2.04.06,Cleaning and Maintenance,Dec/19,500,2019-12-01,2019,12,December,Dec 2019
+2.04.07,Other Administrative Expenses,Dec/19,1328,2019-12-01,2019,12,December,Dec 2019
+2.05,Other Expenses,Dec/19,9500,2019-12-01,2019,12,December,Dec 2019
+2.05.01,Overhead,Dec/19,9500,2019-12-01,2019,12,December,Dec 2019
